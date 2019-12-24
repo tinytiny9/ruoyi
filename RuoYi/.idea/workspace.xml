@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7dc651a-6d08-4641-af55-6a753765e7af" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="F:\Project\IDEA\RuoYi\RuoYi\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VPV9pDSUUZgOipsf73E1car0Iy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="F:/RuoYi" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RuoYiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ruoyi-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ruoyi.RuoYiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c82a90c-8f31-4f16-92ce-d4e76f3ee91a" name="Default Changelist" comment="" />
+      <created>1577154570743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577154570743</updated>
+      <workItem from="1577154592309" duration="2020000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="715" y="351" key="FileChooserDialogImpl" timestamp="1577171187245">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="715" y="351" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1577171187245" />
+    <state width="1535" height="266" key="GridCell.Tab.0.bottom" timestamp="1577157171172">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1535" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1577157171172" />
+    <state width="1535" height="266" key="GridCell.Tab.0.center" timestamp="1577157171172">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1535" height="266" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1577157171172" />
+    <state width="1535" height="266" key="GridCell.Tab.0.left" timestamp="1577157171171">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1535" height="266" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1577157171171" />
+    <state width="1535" height="266" key="GridCell.Tab.0.right" timestamp="1577157171172">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1535" height="266" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1577157171172" />
+    <state width="1535" height="266" key="GridCell.Tab.1.bottom" timestamp="1577157171172">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1535" height="266" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1577157171172" />
+    <state width="1535" height="266" key="GridCell.Tab.1.center" timestamp="1577157171172">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1535" height="266" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1577157171172" />
+    <state width="1535" height="266" key="GridCell.Tab.1.left" timestamp="1577157171172">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1535" height="266" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1577157171172" />
+    <state width="1535" height="266" key="GridCell.Tab.1.right" timestamp="1577157171172">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1535" height="266" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1577157171172" />
+    <state x="636" y="267" key="NewModule_or_Project.wizard" timestamp="1577167682638">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="636" y="267" key="NewModule_or_Project.wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1577167682638" />
+    <state x="499" y="209" key="SettingsEditor" timestamp="1577157084687">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="499" y="209" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1577157084687" />
+    <state x="534" y="306" width="816" height="535" key="Vcs.Push.Dialog.v2" timestamp="1577166751872">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="534" y="306" width="816" height="535" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1577166751872" />
+    <state x="615" y="382" key="com.intellij.ide.util.TipDialog" timestamp="1577154600275">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="615" y="382" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1577154600275" />
+  </component>
+</project>
